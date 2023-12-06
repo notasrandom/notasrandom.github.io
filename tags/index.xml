@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on hugo-pure</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on hugo-pure</description>
+    <title>Tags on Mis notas random</title>
+    <link>notasrandom.github.io/tags/</link>
+    <description>Recent content in Tags on Mis notas random</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>©2023</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-ar</language>
+    <copyright>©2023</copyright>
+    <lastBuildDate>Mon, 20 Feb 2023 11:49:46 +0800</lastBuildDate><atom:link href="notasrandom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>aprender</title>
+      <link>notasrandom.github.io/tags/aprender/</link>
+      <pubDate>Mon, 20 Feb 2023 11:49:46 +0800</pubDate>
+      
+      <guid>notasrandom.github.io/tags/aprender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>idiomas</title>
+      <link>notasrandom.github.io/tags/idiomas/</link>
+      <pubDate>Mon, 20 Feb 2023 11:49:46 +0800</pubDate>
+      
+      <guid>notasrandom.github.io/tags/idiomas/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,13 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>notasrandom.github.io/</loc>
     <lastmod>2023-02-22T11:49:46+08:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>notasrandom.github.io/tags/aprender/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>notasrandom.github.io/best_way_to_learn/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>notasrandom.github.io/tags/idiomas/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
+  </url><url>
+    <loc>notasrandom.github.io/build_a_house/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
+  </url><url>
+    <loc>notasrandom.github.io/markdown-sample/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
+  </url><url>
+    <loc>notasrandom.github.io/preguntas_que_no_sabia_sobre_autos/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
+  </url><url>
+    <loc>notasrandom.github.io/tags/</loc>
+    <lastmod>2023-02-22T11:49:46+08:00</lastmod>
+  </url><url>
+    <loc>notasrandom.github.io/categories/</loc>
   </url>
 </urlset>
