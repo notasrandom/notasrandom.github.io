@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aprender on Mis notas random</title>
-    <link>notasrandom.github.io/tags/aprender/</link>
+    <link>https://notasrandom.github.io/tags/aprender/</link>
     <description>Recent content in aprender on Mis notas random</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <copyright>©2023</copyright>
-    <lastBuildDate>Mon, 20 Feb 2023 11:49:46 +0800</lastBuildDate><atom:link href="notasrandom.github.io/tags/aprender/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 11:49:46 +0800</lastBuildDate><atom:link href="https://notasrandom.github.io/tags/aprender/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aprender cualquier idioma en el 2023 con YouTube</title>
-      <link>notasrandom.github.io/best_way_to_learn/</link>
+      <link>https://notasrandom.github.io/best_way_to_learn/</link>
       <pubDate>Mon, 20 Feb 2023 11:49:46 +0800</pubDate>
       
-      <guid>notasrandom.github.io/best_way_to_learn/</guid>
+      <guid>https://notasrandom.github.io/best_way_to_learn/</guid>
       <description>Cualquier video de YouTube detecta el habla y te lo pasa a texto, luego lo traduce a más de 200 idiomas. Esta es la forma más fácil de aprender un idioma, poné cualquier video que quieras ver y miralo con subtitulos en el idioma que estás aprendiendo.
 O podés mirar un video en ese idioma con subtitulos en ese idioma.</description>
     </item>
